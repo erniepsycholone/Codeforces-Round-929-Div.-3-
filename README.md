@@ -59,8 +59,5 @@ Codeforces and Polygon site created by **MikeMirzayanov**
 
 with contributions and feedback from various other competitive programmers worldwide.  
 Hosted on [Codeforces](https://codeforces.com/contest/1929).
-
----
-
-### If you find this helpful... ⭐
-Consider starring the repo to support more open, educational, competitive programming resources!
+The competition blog can be found on [Codeforces](https://codeforces.com/blog/entry/126344)
+Editorials can be found on [Codeforces](https://codeforces.com/blog/entry/126560)
