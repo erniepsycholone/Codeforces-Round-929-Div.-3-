@@ -25,18 +25,17 @@ The contest lasted for 2 hours and 15 minutes, hosted by the rules of educationa
 ## Repository Structure 📁
 
 Each folder contains:
-- `statement.pdf`: The official problem statement.  
-- `tests/`: Input and output test cases used in the contest.  
-- `solution.cpp`: The officially accepted solution.  
-- `validator.cpp`: Input validator ensuring constraints are met.  
-- `editorial.pdf`: Explanation and solution discussion.
+- The official problem statement.  
+- The officially accepted solution (Both C++ & Python).  
+- Input validator.  
+- Solution Tutorial.
 
 ---
 
 ## Technical Highlights 🧑‍💻
 
 - **99.85% judging accuracy** achieved through comprehensive test coverage.
-- Collaboration with international contributors to refine problem statements and ensure consistency across test cases.
+- Collaboration with contributors worldwide to refine problem statements and ensure consistency across test cases.
 - Problems designed to test a wide range of techniques: greedy strategies, search algorithms, number theory, dynamic programming, and graph theory.
 
 ---
@@ -54,7 +53,7 @@ You are welcome to:
 ## Acknowledgements 🙌
 
 Directed by **erniepsycholone**
-Authored by **erniepsycholone**, **snowysecret**, **dbsbs**, **jerryliuhkg**, **lomienyeet**
+Developed by **erniepsycholone**, **snowysecret**, **dbsbs**, **jerryliuhkg**, **lomienyeet**, **FunnyGoblin**, **MikeMirzayanov**
 Coordinated by **Vladosiya**
 Codeforces and Polygon site created by **MikeMirzayanov**
 
@@ -63,5 +62,5 @@ Hosted on [Codeforces](https://codeforces.com/contest/1929).
 
 ---
 
-### ⭐ If you find this helpful...
+### If you find this helpful... ⭐
 Consider starring the repo to support more open, educational, competitive programming resources!
