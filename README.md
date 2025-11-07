@@ -52,12 +52,13 @@ You are welcome to:
 
 ## Acknowledgements 🙌
 
-Directed by **erniepsycholone**
-Developed by **erniepsycholone**, **snowysecret**, **dbsbs**, **jerryliuhkg**, **lomienyeet**, **FunnyGoblin**, **MikeMirzayanov**
-Coordinated by **Vladosiya**
-Codeforces and Polygon site created by **MikeMirzayanov**
+- Directed by **erniepsycholone**
+- Developed by **erniepsycholone**, **snowysecret**, **dbsbs**, **jerryliuhkg**, **lomienyeet**, **FunnyGoblin**, **MikeMirzayanov**
+- Coordinated by **Vladosiya**
+- Codeforces and Polygon site created by **MikeMirzayanov**
+- with contributions and feedback from various other competitive programmers worldwide.  
+- Hosted on [Codeforces](https://codeforces.com/contest/1929).
+- The competition blog can be found on [Codeforces Blog 126344](https://codeforces.com/blog/entry/126344)
+- Editorials can be found on [Codeforces Blog 126560](https://codeforces.com/blog/entry/126560)
 
-with contributions and feedback from various other competitive programmers worldwide.  
-Hosted on [Codeforces](https://codeforces.com/contest/1929).
-The competition blog can be found on [Codeforces Blog 126344](https://codeforces.com/blog/entry/126344)
-Editorials can be found on [Codeforces Blog 126560](https://codeforces.com/blog/entry/126560)
+Hsia Yik To Ernest, Mar 2024
