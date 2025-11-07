@@ -56,6 +56,8 @@ You are welcome to:
 - Developed by **erniepsycholone**, **snowysecret**, **dbsbs**, **jerryliuhkg**, **lomienyeet**, **FunnyGoblin**, **MikeMirzayanov**
 - Coordinated by **Vladosiya**
 - Codeforces and Polygon site created by **MikeMirzayanov**
+
+  
 with contributions and feedback from various other competitive programmers worldwide.
 
 
